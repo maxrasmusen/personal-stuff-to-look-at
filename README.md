@@ -8,3 +8,4 @@
 - Bower -- npm package management?
 - Typescript -- seems used a lot so should probably know.
 - Coffeescript -- same.
+- Phantomjs -- another web automation testing framework
