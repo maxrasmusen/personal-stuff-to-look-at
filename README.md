@@ -9,3 +9,6 @@
 - Typescript -- seems used a lot so should probably know.
 - Coffeescript -- same.
 - Phantomjs -- another web automation testing framework
+- Falcon -- Python framework for Geo
+- python httplib -- http request library for python
+- python unittest -- unit testing framework for python
